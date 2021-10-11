@@ -42,4 +42,7 @@ To get more information about this issue, please read my description in DIY Home
 We are able to program the Sonoff by using a USB to TTL Serial Adapter. This adapter is 3.3 volts compatible.
 
 
+![mico inverter_blynk](https://user-images.githubusercontent.com/25223934/136781605-43dd1efd-32dd-4631-abd1-0c38edae1473.jpg)
+
+
 for more infos: https://www.forgani.com/electronics-projects/make-a-solar-system-energy-monitor-with-a-sonoff-basic/
