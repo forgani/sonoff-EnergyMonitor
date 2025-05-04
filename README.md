@@ -1,4 +1,4 @@
-# sonoff-EnergyMonitor
+# sonoff-EnergyMonitor and Visualize the data with the Blynk app
 Make a Solar System Energy Monitor with a Sonoff Basic
 
 
